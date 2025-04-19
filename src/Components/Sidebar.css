@@ -1,0 +1,21 @@
+.SidebarList ul{
+    list-style-type: none;
+    padding: 0;
+} 
+.SidebarList ul li{
+    
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    height: 14px;
+
+}
+.SidebarList ul li a{
+    text-decoration: none;
+    color:#2A3E52;
+    font-size: 20px;
+   
+
+
+}
