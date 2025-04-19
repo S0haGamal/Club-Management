@@ -1,0 +1,139 @@
+{
+  "receipts": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "transactionType": "Credit",
+      "amount": 150.75
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "transactionType": "Debit",
+      "amount": 200.5
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "transactionType": "Credit",
+      "amount": 300
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "transactionType": "Debit",
+      "amount": 120.25
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "transactionType": "Credit",
+      "amount": 450
+    },
+    {
+      "id": "6",
+      "name": "Emily Wilson",
+      "transactionType": "Debit",
+      "amount": 75
+    },
+    {
+      "id": "7",
+      "name": "Frank Thomas",
+      "transactionType": "Credit",
+      "amount": 600
+    },
+    {
+      "id": "8",
+      "name": "Grace Lee",
+      "transactionType": "Debit",
+      "amount": 50
+    },
+    {
+      "id": "9",
+      "name": "Henry White",
+      "transactionType": "Credit",
+      "amount": 250
+    },
+    {
+      "id": "10",
+      "name": "Ivy Green",
+      "transactionType": "Debit",
+      "amount": 180
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "type": "Monthly",
+      "startDate": "2023-01-01",
+      "endDate": "2023-12-31",
+      "paid": true
+    },
+    {
+      "id": "2",
+      "name": "Jane Smith",
+      "type": "Annual",
+      "startDate": "2022-06-01",
+      "endDate": "2023-06-01",
+      "paid": false
+    },
+    {
+      "id": "3",
+      "name": "Alice Johnson",
+      "type": "Monthly",
+      "startDate": "2023-03-01",
+      "endDate": "2023-12-31",
+      "paid": true
+    },
+    {
+      "id": "4",
+      "name": "Bob Brown",
+      "type": "Annual",
+      "startDate": "2023-01-01",
+      "endDate": "2024-01-01",
+      "paid": true
+    },
+    {
+      "id": "5",
+      "name": "Charlie Davis",
+      "type": "Monthly",
+      "startDate": "2023-05-01",
+      "endDate": "2023-12-31",
+      "paid": false
+    },
+    {
+      "id": "6",
+      "name": "Diana Evans",
+      "type": "Annual",
+      "startDate": "2022-09-01",
+      "endDate": "2023-09-01",
+      "paid": true
+    },
+    {
+      "id": "7",
+      "name": "Ethan Harris",
+      "type": "Monthly",
+      "startDate": "2023-07-01",
+      "endDate": "2023-12-31",
+      "paid": false
+    },
+    {
+      "id": "9",
+      "name": "George Hill",
+      "type": "Monthly",
+      "startDate": "2023-08-01",
+      "endDate": "2023-12-31",
+      "paid": true
+    },
+    {
+      "id": "6937",
+      "name": "Soha Gamal ",
+      "type": "Monthly",
+      "startDate": "2025-04-11",
+      "endDate": "2025-05-19",
+      "paid": true,
+      "Notes": "No"
+    }
+  ]
+}
